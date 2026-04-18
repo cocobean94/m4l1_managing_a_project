@@ -8,6 +8,7 @@ Khaki
 Coral
 Silver
 Fuchsia
-Purple
+Neon
 Brown
 Red
+Gold
